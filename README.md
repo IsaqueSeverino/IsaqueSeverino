@@ -4,9 +4,10 @@
 - 🌱 Estudando hoje em dia sobre IA
 - 😄 Pronouns: ele/dele
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSeverino&show_icons=true&bg_color=00000000)
+<div>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=IsaqueSeverino&show_icons=true&theme=dark"/> 
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSeverino&layout=compact&theme=dark"/> 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
