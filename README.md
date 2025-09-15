@@ -1,13 +1,19 @@
 ## Olá! Eu sou o aluno Isaque Severino 👋
 
+---
+
 - 🔭 Hoje estou focado em ser Full-Stack
 - 🌱 Estudando hoje em dia sobre IA
 - 😄 Pronouns: ele/dele
+
+---
 
 <div>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=IsaqueSeverino&show_icons=true&theme=dark"/> 
   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSeverino&layout=compact&theme=dark"/> 
 </div>
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +24,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+---
 
 ![Snake animation](https://github.com/IsaqueSeverino/IsaqueSeverino/blob/output/github-contribution-grid-snake.svg)
 
