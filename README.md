@@ -27,7 +27,8 @@
 
 ---
 
-![Snake animation](https://github.com/IsaqueSeverino/IsaqueSeverino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/IsaqueSeverino/IsaqueSeverino/output/github-contribution-grid-snake.svg)
+
 
  
 
