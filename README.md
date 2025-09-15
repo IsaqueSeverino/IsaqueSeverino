@@ -27,9 +27,9 @@
 
 ---
 
-### 📊 Minhas contribuições
-134 contributions in 2025
+### 🐍 Minhas contribuições
 ![Snake animation](https://raw.githubusercontent.com/IsaqueSeverino/IsaqueSeverino/output/github-contribution-grid-snake.svg)
+
 
 
  
